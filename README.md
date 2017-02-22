@@ -54,7 +54,7 @@ public class  example
 ADVANTAGES:
 ===========
 
-=> IT  is   the  most  important  ADVANECED  BUSINESS  Programming  language  
+=> IT  is   the  most  important  ADVANCED  BUSINESS  Programming  language  
 
 and  it  uses   EMC  Principles for   SIT  and  WRIT  Field  IT Companies and  MNC IT companies MOre  Prosperous.
 
@@ -113,7 +113,7 @@ public class  example
 ADVANTAGES:
 ===========
 
-=> IT  is   the  most  important  ADVANECED  BUSINESS  Programming  language  
+=> IT  is   the  most  important  ADVANCED  BUSINESS  Programming  language  
 
 and  it  uses   EML  Principles for   SIT ,IT FIELD , and  WRIT  Field 
 
